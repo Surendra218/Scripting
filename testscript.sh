@@ -3,4 +3,4 @@ echo "This script is from Github"
 NUM=$(($FIRSTNUMBER + $SECONDNUM))
 echo $NUM
 echo "This is complete"
-echo "Now this is printing Webhook"
+echo "Now this is to print Webhook"
